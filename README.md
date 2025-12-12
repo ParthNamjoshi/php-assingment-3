@@ -16,6 +16,3 @@ Included Topics :
 
 File :
 Php - Web Services, Api, Extensions - Industry.docx – isme sabhi questions ke detailed answers ENGLISH Language me diye hain.
-
-Purpose :
-Ye assignment Web Services aur APIs ka basic understanding clear karne ke liye banaya gaya hai.
